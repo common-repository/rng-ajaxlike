@@ -1,0 +1,116 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-03-07 13:20+0330\n"
+"PO-Revision-Date: 2018-06-14 10:35-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/setting-panel.php:6
+msgid "Settings saved"
+msgstr ""
+
+#: admin/setting-panel.php:8
+msgid "Error with saving"
+msgstr ""
+
+#: admin/setting-panel.php:17
+msgid "save"
+msgstr ""
+
+#: includes/class.controller.settings.php:39
+msgid "general settings"
+msgstr ""
+
+#: includes/class.controller.settings.php:40
+msgid "post type permission"
+msgstr ""
+
+#: includes/class.controller.settings.php:41
+msgid "show like button"
+msgstr ""
+
+#: includes/class.controller.settings.php:42
+msgid "like button color"
+msgstr ""
+
+#: includes/class.controller.settings.php:49
+msgid ""
+"most important setting is check post type that you like to show ajax like "
+"button"
+msgstr ""
+
+#: includes/class.controller.settings.php:111
+msgid "Yes"
+msgstr ""
+
+#: includes/class.controller.settings.php:112
+msgid "No"
+msgstr ""
+
+#: includes/class.controller.settings.php:121
+msgid "Ajax Like Settings"
+msgstr ""
+
+#: includes/class.controller.settings.php:136
+msgid ""
+"RNG_ajaxLike is activated, you may need to configure it to work properly."
+msgstr ""
+
+#: includes/class.controller.settings.php:136
+msgid "Go to Settings page"
+msgstr ""
+
+#: includes/class.controller.settings.php:136
+msgid "Dismiss"
+msgstr ""
+
+#: includes/class.controller.settings.php:160
+msgid "Settings"
+msgstr ""
+
+#: includes/translate.php:2
+msgid "rng-ajaxlike"
+msgstr ""
+
+#: includes/translate.php:3
+msgid ""
+"WordPress plugin that allow the visitor to like posts content in a single "
+"page using Ajax technology with excellent features like setting panel and "
+"widget that show posts order by like counts."
+msgstr ""
+
+#: includes/translate.php:4
+msgid "Abolfazl Sabagh"
+msgstr ""
+
+#: includes/widgets/mostliked-posts.php:8
+msgid "Show most liked posts"
+msgstr ""
+
+#: includes/widgets/mostliked-posts.php:10
+#: includes/widgets/mostliked-posts.php:74
+msgid "Most Liked Posts"
+msgstr ""
+
+#: includes/widgets/mostliked-posts.php:86
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/mostliked-posts.php:90
+msgid "Select post types"
+msgstr ""
+
+#: includes/widgets/mostliked-posts.php:101
+msgid "Posts per page"
+msgstr ""
